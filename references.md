@@ -1,27 +1,5 @@
-pentadog 😄
+# References
 
+* octocat 1 😈
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Added pentadog reference with a smiley face
-
-
+* pentadog 2 😄
